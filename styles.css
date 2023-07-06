@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: gold;
+}
+
+#stats {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: gold;
+  border: none;
+  color: black;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+#level,
+#experience,
+#skillPoints,
+#gold,
+#silver {
+  font-weight: bold;
+  color: white;
+}
